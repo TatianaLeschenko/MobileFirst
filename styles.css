@@ -262,6 +262,7 @@ body {
 #content .tabs {
 	position: relative;
 	overflow: hidden;
+	color: #909090;
 }
 
 
@@ -291,6 +292,7 @@ body {
 
 #content .accordion {
 	width: 100%;
+	color: #909090;
 }
 
 #content .accordion dt {
